@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>hexo博客</title>
+    <url>/2022/02/22/hexo%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><blockquote>
+<p>使用技术</p>
+<ol>
+<li><a href="https://hexo.io/zh-cn/">HEXO</a>博客框架</li>
+<li><a href="https://shen-yu.gitee.io/">Ayer</a>主题</li>
+</ol>
+</blockquote>
+<h2 id="搭建"><a href="#搭建" class="headerlink" title="搭建"></a>搭建</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">搭建博客：</span><br><span class="line">https://hexo.io/zh-cn/docs/</span><br><span class="line">安装主题：</span><br><span class="line">https://shen-yu.gitee.io/2019/ayer/</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h2 id="hexo常用命令"><a href="#hexo常用命令" class="headerlink" title="hexo常用命令"></a>hexo常用命令</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo init &lt;folder&gt;</span><br><span class="line">  由于新建网站  此命令只在创建博客时使用一次</span><br><span class="line">hexo new [layout] &lt;title&gt;</span><br><span class="line">  layout: post（文章）、draft（草稿）、page（页面）</span><br><span class="line">  用于新建文章或页面</span><br><span class="line">hexo generate</span><br><span class="line">  用于生成静态页面</span><br><span class="line">hexo deploy</span><br><span class="line">  用于将内容部署到网站</span><br><span class="line">hexo publish [layout] &lt;title&gt;</span><br><span class="line">  用于将内容从drafts文件夹移动到posts文件夹</span><br><span class="line">hexo server</span><br><span class="line">  本地运行，地址：http://localhost:4000</span><br><span class="line">hexo clean</span><br><span class="line">  清理缓存文件</span><br><span class="line">hexo generate</span><br><span class="line">  能够监视文件变动并立即重新生成静态文件</span><br><span class="line">hexo deploy</span><br><span class="line">  一键部署</span><br></pre></td></tr></table></figure>
+<p><strong>说明：‘hexo clean’、‘hexo generate’、‘hexo deploy’在gitBash中使用</strong></p>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>ayer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试置顶</title>
+    <url>/2022/07/05/%E6%B5%8B%E8%AF%95%E7%BD%AE%E9%A1%B6/</url>
+    <content><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+</search>
